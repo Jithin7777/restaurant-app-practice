@@ -102,7 +102,7 @@ const Welcome = ({ }) => {
       className="flex w-full items-center justify-center bg-[#131313] lg:h-screen"
     >
       <div className="relative flex h-fit w-full flex-col items-center justify-center gap-9 overflow-hidden px-3 py-12 lg:min-h-[100vh] lg:flex-row lg:gap-0 lg:p-0 lg:py-24">
-        <div className="center-img lg:left-[450px] lg:top-5/12 flex h-fit w-fit items-center justify-center overflow-hidden lg:absolute">
+        <div className="center-img lg:left-[450px]  flex h-fit w-fit items-center justify-center overflow-hidden lg:absolute">
           <Image
             src="/images/welcome/center.png"
             width={450}
